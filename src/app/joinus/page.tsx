@@ -155,29 +155,6 @@ export default function ExpertContactSection() {
           </form>
         </div>
       </div>
-
-      {/* Footer Info */}
-      <div className="mt-12 xl:px-30 xl:text-xl text-gray-300">
-        <p>
-          Email:{" "}
-          <a href="mailto:info.degzzo@gmail.com" className="">info.degzzo@gmail.com</a>
-        </p>
-        <p className="mt-1">Phone : +91 7708460702</p>
-        <p className="mt-1">Address: 123 Creative Street, Design City, CA 90001</p>
-        {/* <button className="bg-blue-400 hover:bg-blue-500 text-white my-5 py-1 px-16 border-2  rounded-full" onClick={() => window.open("https://wa.me/7708460702?text=Hi%20Degzzo%0ACan%20you%20connect%20with%20your%20expert%20for%20Meeting", "hii Degzzo")}>
-        Connect
-      </button> */}
-        <div className="flex  gap-4 text-sm sm:text-xl pt-2 xl:pt-5 font-semibold">
-          <Link href="https://www.instagram.com/degzzo?igsh=a2pyM210enZ4c24y" className="hover:text-gray-600  transition">Instagram</Link>
-          <Link href="https://www.linkedin.com/company/degohub/" className="hover:text-gray-600 transition">LinkedIn</Link>
-          <Link href="https://x.com/Harishragul06?t=rUUE-UnI6J6OcX0E8WRPlA&s=09" className="hover:text-gray-600 transition">X</Link>
-          <Link href="https://wa.me/qr/C3U7YQGSIYLUG1" className="hover:text-gray-600 transition">WhatsApp</Link>
-          
-        </div>
-      
-      </div>
-        
-      
     </section>
   );
 }
