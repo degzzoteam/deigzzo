@@ -1,0 +1,16 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/contact/route": "app/api/contact/route.js",
+  "/icon.png/route": "app/icon.png/route.js",
+  "/Partners/page": "app/Partners/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/Partners/unique/page": "app/Partners/unique/page.js",
+  "/client-login/page": "app/client-login/page.js",
+  "/industries/page": "app/industries/page.js",
+  "/ourwork/page": "app/ourwork/page.js",
+  "/joinus/page": "app/joinus/page.js",
+  "/ourservice/page": "app/ourservice/page.js",
+  "/page": "app/page.js",
+  "/process/page": "app/process/page.js",
+  "/products.jsx/page": "app/products.jsx/page.js"
+}

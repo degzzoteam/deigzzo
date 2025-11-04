@@ -1,0 +1,16 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/contact/route": "/api/contact",
+  "/icon.png/route": "/icon.png",
+  "/Partners/page": "/Partners",
+  "/admin/page": "/admin",
+  "/Partners/unique/page": "/Partners/unique",
+  "/client-login/page": "/client-login",
+  "/industries/page": "/industries",
+  "/ourwork/page": "/ourwork",
+  "/joinus/page": "/joinus",
+  "/ourservice/page": "/ourservice",
+  "/page": "/",
+  "/process/page": "/process",
+  "/products.jsx/page": "/products.jsx"
+}
