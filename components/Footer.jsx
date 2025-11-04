@@ -24,7 +24,7 @@ export default function Footer() {
                   <div className="flex flex-col xl:flex-row gap-2 xl:gap-8 ">
                     <div>
                       <p className="font-bold">Email:</p>
-                      <p>degzzoteam@gmail.com</p>
+                      <p>deigzzo@outlook.com</p>
                     </div>
                     <div>
                       <p className="font-bold w-40">Phone:</p>
